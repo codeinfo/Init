@@ -43,6 +43,8 @@
 
 ### AngularJS
 
+#### AngularUI [tag:http://angular-ui.github.io/]
+
 ## CSS
 ---
 
