@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"stime",
+				"stime_true"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Snippet: <?php",
+				"Snippet: <?php else: ?>"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pages",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Git/more.sublime-project",
+		"/D/Git/PHP/Composer/Install-for-win-and-wamp.md",
+		"/D/Git/README.md",
+		"/D/Git/Markdown/Markdown-for-git.md",
+		"/D/Git/Markdown/markdown-for-git.md",
+		"/D/wamp/www/laravel/bootstrap/autoload.php",
+		"/D/wamp/www/phpinfo.php",
+		"/D/wamp/bin/php/php5.4.12/php.ini",
+		"/C/Users/avtech/Desktop/training.md",
+		"/D/wamp/www/pdf/index.html",
+		"/D/wamp/www/jsPDF-master/examples/basic.html",
+		"/D/wamp/www/pdf/jquery.min.js",
+		"/D/wamp/www/jsPDF-master/examples/runner.html",
+		"/D/wamp/www/courses/App/Admin/Controller/IndexController.class.php",
+		"/D/wamp/www/courses/Public/css/admin-reset.css",
+		"/D/wamp/www/courses/App/Admin/View/Index/preview.html",
+		"/D/wamp/www/courses/Public/css/bootstrap-theme.min.css",
+		"/D/golang/src/macaron/main.go",
+		"/D/wamp/www/courses/App/Admin/View/Edm/index.html",
+		"/D/wamp/www/courses/App/Admin/View/Index/index.html",
+		"/D/wamp/www/courses/App/Admin/View/Index/editarticle.html",
+		"/D/wamp/www/courses/App/Admin/Common/function.php",
+		"/C/Users/avtech/Desktop/EDM邮件模板注意事项.md",
+		"/C/Users/avtech/Desktop/工作/cbap_mail/index.html",
+		"/D/wamp/www/courses/App/Admin/Controller/EdmController.class.php",
+		"/D/wamp/www/courses/App/Admin/View/Index/add.html",
+		"/D/wamp/www/courses/App/Admin/View/Index/article.html",
+		"/D/wamp/www/laravel-master/vendor/composer/installed.json",
+		"/D/wamp/www/laravel-master/CONTRIBUTING.md",
+		"/D/wamp/www/laravel-master/readme.md",
+		"/D/wamp/www/laravel-master/composer.json",
+		"/D/wamp/www/laravel-master/.gitignore",
+		"/C/Users/avtech/Desktop/工作/6月薪资明细-叶楠.xlsx",
+		"/D/wamp/www/courses/App/Admin/View/Base/index.html",
+		"/D/wamp/www/Core/ThinkPHP/Common/functions.php",
+		"/D/wamp/www/courses/App/Runtime/Cache/Admin/9df924d9a2d217daa77a359c5bee0c33.php",
+		"/D/wamp/www/Core/ThinkPHP/Conf/convention.php",
+		"/D/wamp/www/courses/App/Admin/Controller/AuthController.class.php",
+		"/D/wamp/www/courses/App/Admin/Controller/index.html",
+		"/D/wamp/www/courses/App/Admin/Model/CategoryModel.class.php",
+		"/D/wamp/www/courses/App/Common/Conf/config.php",
+		"/D/wamp/www/courses/App/Admin/Model/MembersModel.class - 副本.php",
+		"/D/wamp/www/courses/index.php",
+		"/D/golang/src/github.com/gin-gonic/gin/auth.go",
+		"/D/golang/src/github.com/gin-gonic/gin/LICENSE",
+		"/D/golang/src/github.com/gin-gonic/gin/README.md",
+		"/D/golang/src/github.com/gin-gonic/gin/logger.go",
+		"/D/golang/src/github.com/gin-gonic/gin/gin.go",
+		"/D/golang/src/github.com/gin-gonic/gin/recovery.go",
+		"/D/golang/src/github.com/gin-gonic/gin/validation.go",
+		"/D/golang/src/gin/main.go",
+		"/D/golang/src/gin/main.gin",
+		"/D/wamp/www/angular/index.html",
+		"/C/Users/avtech/Downloads/kindeditor-master/README.md",
+		"/C/Users/avtech/Downloads/kindeditor-master/kindeditor-all-min.js",
+		"/D/wamp/www/courses/App/Admin/View/Auth/sign.html",
+		"/D/wamp/www/courses/Public/js/angular-sanitize.min.js",
+		"/D/wamp/www/courses/Public/js/angular.min.js",
+		"/C/Users/avtech/Downloads/bootstrap-3.2.0-dist/css/bootstrap.css.map",
+		"/D/wamp/www/courses/App/Admin/Controller/UserController.class.php",
+		"/D/wamp/www/courses/App/Admin/Controller/MenuController.class.php",
+		"/D/wamp/www/course/index.php",
+		"/D/wamp/www/pageone/App/Admin/View/Index/index.html",
+		"/D/wamp/www/pageone/Public/css/admin-reset.css",
+		"/D/wamp/www/pageone/App/Admin/View/Base/index.html",
+		"/D/wamp/www/pageone/App/Admin/View/Auth/sign.html",
+		"/D/wamp/www/pageone/App/Admin/Controller/AuthController.class.php",
+		"/D/wamp/www/avtechcn/2/App/Admin/Controller/AuthController.class.php",
+		"/D/wamp/www/avtechcn/2/App/Admin/Model/AdminModel.class.php",
+		"/D/wamp/www/avtechcn/2/App/Admin/Controller/CoursesController.class.php",
+		"/D/wamp/www/edm/App/Home/Controller/IndexController.class.php",
+		"/D/wamp/www/edm/App/Home/Conf/config.php",
+		"/D/wamp/www/edm/App/Home/View/Index/course.html",
+		"/D/wamp/www/avtechcn/2/App/Admin/Conf/config.php",
+		"/D/wamp/www/edm/Public/html/cbap.html",
+		"/D/wamp/www/avtechcn/2/App/Common/Conf/config.php",
+		"/D/wamp/www/edm/App/Common/Conf/config.php",
+		"/D/wamp/www/avtechcn/2/App/Home/Conf/config.php",
+		"/D/wamp/www/edm/index.php",
+		"/D/wamp/www/edm/index.tpl",
+		"/D/wamp/www/edm/html/cbap.html",
+		"/D/wamp/bin/apache/Apache2.4.4/conf/extra/httpd-vhosts.conf",
+		"/D/wamp/www/pageone/App/Admin/Controller/IndexController.class.php",
+		"/D/wamp/bin/apache/Apache2.4.4/conf/httpd.conf",
+		"/D/wamp/www/.htaccess",
+		"/D/wamp/www/pageone/App/Admin/View/Base/sign.html",
+		"/D/wamp/www/Core/ThinkPHP/Library/Think/Db.class.php",
+		"/D/wamp/www/index.php",
+		"/D/wamp/www/pageone/App/Admin/Model/MembersModel.class.php",
+		"/D/wamp/www/pageone/App/Common/Conf/config.php",
+		"/D/wamp/www/pageone/Public/css/sign.css",
+		"/D/wamp/www/avtechcn/2/Public/Home/css/reset.css",
+		"/D/wamp/www/pageone/readme/auth.md",
+		"/D/wamp/www/pageone/README.md",
+		"/D/wamp/www/pagesite/readme/auth.md",
+		"/D/wamp/www/pagesite/README.md",
+		"/D/wamp/www/bigdata.avtechcn.com/App/Admin/Controller/IndexController.class.php",
+		"/D/wamp/www/bigdata.avtechcn.com/App/Admin/Controller/AuthController.class.php",
+		"/D/wamp/www/bigdata.avtechcn.com/App/Admin/Model/AuthModel.class.php",
+		"/D/wamp/www/bigdata.avtechcn.com/App/Admin/Common/function.php",
+		"/D/wamp/www/avtechcn/2/readme/auth.md",
+		"/D/wamp/www/bigdata.avtechcn.com/App/Home/Controller/IndexController.class.php",
+		"/D/wamp/www/bigdata.avtechcn.com/Public/css/reset.css",
+		"/D/wamp/www/bigdata.avtechcn.com/App/Home/View/Index/index.html",
+		"/D/wamp/www/bigdata.avtechcn.com/index.php",
+		"/D/wamp/www/avtechcn/2/App/Home/View/Default/Public/header.html",
+		"/D/wamp/www/avtechcn/2/App/Home/View/Avtech/Base/index.html",
+		"/D/wamp/www/avtechcn/2/App/Admin/View/Default/Base/index.html",
+		"/D/wamp/www/avtechcn/2/App/Admin/View/Default/Base/signin.html",
+		"/C/Users/avtech/Desktop/cbap_mail/index.html",
+		"/C/Users/avtech/Desktop/index.html",
+		"/D/wamp/www/avtechcn/2/App/Home/Controller/RegisterController.class.php",
+		"/D/wamp/www/example.php",
+		"/D/wamp/www/avtechcn/2/App/Home/Controller/RegsiterController.class.php",
+		"/C/Users/avtech/Downloads/uploadify/index.php",
+		"/C/Users/avtech/Downloads/uploadify/check-exists.php",
+		"/C/Users/avtech/Downloads/uploadify/uploadify.php",
+		"/C/Users/avtech/Downloads/uploadify/jquery.uploadify.js",
+		"/D/wamp/www/avtechcn/2/Public/Home/css/theme.css",
+		"/D/wamp/www/avtechcn/2/App/Home/Controller/SearchController.class.php",
+		"/D/wamp/www/avtechcn/2/App/Home/View/Avtech/Search/index.html",
+		"/D/wamp/www/avtechcn/2/App/Home/View/Avtech/Course/list.html",
+		"/D/wamp/www/avtechcn/2/App/Home/Controller/CourseController.class.php",
+		"/D/wamp/www/avtechcn/2/App/Home/View/Avtech/Public/keywords.html",
+		"/D/wamp/www/avtechcn/2/App/Home/Controller/IndexController.class.php",
+		"/D/wamp/www/avtechcn/2/App/Home/Controller/FutureController.class.php",
+		"/D/wamp/www/avtechcn/2/config.yaml",
+		"/D/wamp/www/bigdata/composer.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\wamp\\www\\Core\\ThinkPHP",
+			"D:\\wamp\\www\\avtechcn\\2",
+			"D:\\wamp\\www\\avtechcn\\2\\App\\Admin\\Controller",
+			"D:\\wamp\\www\\avtechcn\\2\\Core",
+			"D:\\wamp\\www\\avtechcn\\2\\Public",
+			"D:\\wamp\\www\\avtechcn\\2\\Core",
+			"D:\\wamp\\www\\avtechcn\\Core",
+			"D:\\wamp\\www\\avtech\\2\\Core",
+			"D:\\wamp\\www\\avtech\\2\\Core\\ThinkPHP",
+			"D:\\wamp\\www\\avtech\\2\\Core",
+			"D:\\wamp\\www\\avtech\\2\\Core\\ThinkPHP",
+			"D:\\wamp\\www\\avtech\\2\\Core",
+			"D:\\wamp\\www\\avtech\\2\\Core\\ThinkPHP",
+			"D:\\wamp\\www\\avtech\\2\\Core",
+			"D:\\wamp\\www\\avtech\\2\\Core\\ThinkPHP",
+			"D:\\wamp\\www\\avtech\\2\\Core",
+			"D:\\wamp\\www\\avtech\\2\\Core\\ThinkPHP",
+			"D:\\wamp\\www\\avtech\\2\\Core",
+			"D:\\wamp\\www\\avtech\\2\\App\\Admin\\Controller",
+			"D:\\wamp\\www\\avtech\\2\\Core",
+			"D:\\wamp\\www\\avtech\\2\\Core\\ThinkPHP",
+			"D:\\wamp\\www\\avtech\\2\\Core",
+			"D:\\wamp\\www\\avtech\\2\\App\\Admin\\Controller",
+			"D:\\wamp\\www\\codeinfo\\3\\Core\\ThinkPHP",
+			"D:\\wamp\\www\\codeinfo\\3\\Core",
+			"D:\\wamp\\www\\codeinfo\\3\\Core\\ThinkPHP",
+			"D:\\wamp\\www\\codeinfo\\3\\Core",
+			"D:\\wamp\\www\\codeinfo\\3\\Public",
+			"D:\\wamp\\www\\codeinfo\\3\\Core\\ThinkPHP",
+			"C:\\Users\\avtech\\Desktop\\install_package"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"php_",
+			"opensll",
+			"open",
+			"open_ssl",
+			"哦喷",
+			"elementHandlers",
+			"specialElementHandlers",
+			"jsPDF",
+			"margin",
+			"jquery.map",
+			"jquery.map.js",
+			"jquery.map",
+			"quit",
+			"content",
+			"http://www.keystonecn.com/edm/keystone_perforcemance0711sh/img/l02.jpg",
+			"http://www.keystonecn.com/edm/keystone_perforcemance0711sh/img/l03.jpg",
+			"培训师介绍",
+			"培训",
+			"培训讲师介绍",
+			"培训讲师",
+			"content",
+			"editarticle",
+			"edit",
+			"见",
+			"建",
+			"f",
+			"panel-heading",
+			"valign=\"top\"",
+			"课程大纲",
+			"aid",
+			"cid",
+			"vo",
+			"content",
+			"课程列表",
+			"<a class=\"btn btn-reset\">课程列表</a>",
+			"content",
+			"课程内容",
+			"href",
+			"editcate",
+			"editform",
+			"editcate",
+			"ci",
+			"cid",
+			"edit",
+			"btn-delete",
+			"panel-heading",
+			"class",
+			"btn-modal",
+			"btn-moda",
+			"btn-modal",
+			"btn-model",
+			"btn-model-1",
+			"a",
+			"btn-model",
+			"btn-mod",
+			"btn-mod-1",
+			"buttun",
+			"model",
+			"测",
+			"测试",
+			"G",
+			"LOAD_EXT_CONFIG",
+			"panel-heading",
+			"reset",
+			"TRACE",
+			"T",
+			"wrap-left",
+			"gl",
+			"gl-left",
+			"<span class=\"glyphicon glyphicon-th-large gl-left\"></span>",
+			"textarea",
+			"deliberatelyTrustDangerousSnippet()",
+			"font-size",
+			"http://www.keystonecn.com/edm/keystone_perforcemance0711sh/img/l02.jpg",
+			"images",
+			"__PUBLIC__",
+			"images",
+			"http://www.keystonecn.com/edm/keystone_perforcemance0711sh/img/l03.jpg",
+			"103",
+			"servername",
+			"D:/wamp/bin/apache/apache2.4.4",
+			"server",
+			"vhosts",
+			"LIke",
+			"like",
+			"members",
+			"D",
+			"DB",
+			"mysql",
+			"myslq",
+			"sign-form",
+			"form-sprite.png",
+			"green-full-width",
+			"auth",
+			".navbar-default .navbar-nav > .active > a",
+			"active",
+			"img",
+			"wrap",
+			"head",
+			"navbar",
+			"nav",
+			"wrap-list",
+			"banner",
+			"myCarousel",
+			"active",
+			"ac",
+			"active",
+			".navbar-default .navbar-nav > .active > a ",
+			".navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus",
+			"active",
+			"\n  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset, 0 1px 5px rgba(0, 0, 0, 0.075);",
+			"大数据培训",
+			"navbar-toggle",
+			".carousel-control",
+			"form",
+			"nav-bar",
+			"default",
+			"carousel-inner",
+			"myCarousel",
+			"header-nav",
+			"google",
+			"杨冰",
+			"讲师",
+			"课程讲师",
+			"www.keystonecn.com",
+			"以上",
+			"模块四",
+			"echo"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"reset/images/client"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "more.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"sg-blog.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\wamp\\www\\project\\avtech\\avtech.sublime-project"
+			],
+			[
+				"a",
+				"D:\\wamp\\www\\avtech\\2\\avtech-2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 136.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
