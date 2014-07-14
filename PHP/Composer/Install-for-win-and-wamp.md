@@ -9,6 +9,8 @@ PHP 5.3.4+ (以更好的使用Composer)
 基础软件
 ---
 [Wamp](http://www.wampserver.com/en/)
+
+
 [Composer](https://getcomposer.org/)
 
 安装问题
