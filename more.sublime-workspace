@@ -81,9 +81,9 @@
 	"file_history":
 	[
 		"/D/Git/more.sublime-project",
-		"/D/Git/PHP/Composer/Install-for-win-and-wamp.md",
 		"/D/Git/README.md",
 		"/D/Git/Markdown/Markdown-for-git.md",
+		"/D/Git/PHP/Composer/Install-for-win-and-wamp.md",
 		"/D/Git/Markdown/markdown-for-git.md",
 		"/D/wamp/www/laravel/bootstrap/autoload.php",
 		"/D/wamp/www/phpinfo.php",
@@ -255,6 +255,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"https://raw.githubusercontent.com/codeinfo/More/master/Images/more.png",
 			"php_",
 			"opensll",
 			"open",
@@ -381,8 +382,7 @@
 			"课程讲师",
 			"www.keystonecn.com",
 			"以上",
-			"模块四",
-			"echo"
+			"模块四"
 		],
 		"highlight": false,
 		"in_selection": false,

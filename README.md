@@ -25,8 +25,9 @@ Symfony2是一个开源的PHP Web框架，有着开发速度快、性能高等�
 
 #### [Composer](https://getcomposer.org) [Git](https://github.com/composer/composer)
 
-1.[Install for win and wamp](https://github.com/codeinfo/More/blob/master/composer/Install-for-win-and-wamp.md)
-
+	[Install for win and wamp](https://github.com/codeinfo/More/blob/master/composer/Install-for-win-and-wamp.md)
+	
+	[Update](https://github.com/codeinfo/More/blob/master/composer/Update.md)
 DB
 ---
 ### Database Theory 数据库原理

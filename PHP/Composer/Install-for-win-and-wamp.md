@@ -6,9 +6,13 @@ Install for win and wamp
 PHP 5.3.4+ (以更好的使用Composer)
 开启 Openssl 扩展
 
+
 基础软件
 ---
 [Wamp](http://www.wampserver.com/en/)
+
+
+[Git](http://git-scm.com/download/win)
 
 
 [Composer](https://getcomposer.org/)
