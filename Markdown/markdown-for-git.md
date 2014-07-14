@@ -40,11 +40,11 @@
 2.[Codeinfo](http://codeinfo.cn)<br />
 
 ###只是显示图片
-![More](https://github.com/codeinfo/More/blob/master/Images/more.jpg "More")
+![More](https://raw.githubusercontent.com/codeinfo/More/master/Images/more.jpg "More")
 
 ###想点击某个图片进入一个网页
-[![More]](https://github.com/codeinfo/More/blob/master/Images/more.jpg)
-[More]: https://github.com/codeinfo/More/blob/master/Images/more.jpg "More"
+[![More]](https://raw.githubusercontent.com/codeinfo/More/master/Images/more.jpg)
+[More]: https://raw.githubusercontent.com/codeinfo/More/master/Images/more.jpg "More"
 
 ### 文字被些字符包围
 > 文字被些字符包围
