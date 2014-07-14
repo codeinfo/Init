@@ -1,5 +1,6 @@
 More
 ===
+![More](https://github.com/codeinfo/More/more.jpg "More")
 **Web list**
 Protocol 协议
 ---
@@ -12,7 +13,7 @@ PHP
 
 #### ThinkPHP
 
-#### [Laravel](http://laravel.com) [Zh](http://golaravel.com)
+#### [Laravel](http://laravel.com) [zh](http://golaravel.com)
 
 Laravel是一个简单优雅的PHP Web开发框架，可以将开发者从意大利面条式的代码中解放出来，通过简单、高雅、表达式语法开发出很棒的Web应用，Laravel拥有更富有表现力的语法、高质量的文档、丰富的扩展包，被称为“巨匠级PHP开发框架”。 
 
@@ -26,7 +27,7 @@ Symfony2是一个开源的PHP Web框架，有着开发速度快、性能高等�
 
 #### [Composer](https://getcomposer.org) [Git](https://github.com/composer/composer)
 
-1.[Install for win and wamp](https://github.com/codeinfo/More/blob/master/composer/Install-for-win-and-wamp)
+1.[Install for win and wamp](https://github.com/codeinfo/More/blob/master/composer/Install-for-win-and-wamp.md)
 
 DB
 ---
