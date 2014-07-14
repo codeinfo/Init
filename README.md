@@ -1,7 +1,6 @@
 More
 ===
 ![More](https://raw.githubusercontent.com/codeinfo/More/master/Images/more.jpg "More")
-**Web list**
 Protocol 协议
 ---
 
