@@ -7,7 +7,7 @@ PHP
 ---
 ### PHP Theory
 
-[定时任务](https://github.com/codeinfo/More/blob/master/php/theory/定时任务.md)
+[定时任务](https://github.com/codeinfo/More/blob/master/PHP/Theory/%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1.md)
 
 ### Framework
 
