@@ -7,6 +7,8 @@ PHP
 ---
 ### PHP Theory
 
+[定时任务](https://github.com/codeinfo/More/blob/master/php/theory/定时任务.md)
+
 ### Framework
 
 #### ThinkPHP
@@ -53,6 +55,8 @@ Javascript
 ---
 
 ### Juqery
+
+#### [Jquery Slider plugin](http://egorkhmelev.github.io/jslider/)
 
 ### AngularJS
 

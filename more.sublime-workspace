@@ -80,8 +80,9 @@
 	},
 	"file_history":
 	[
-		"/D/Git/more.sublime-project",
+		"/C/Users/avtech/.gitconfig",
 		"/D/Git/README.md",
+		"/D/Git/more.sublime-project",
 		"/D/Git/Markdown/Markdown-for-git.md",
 		"/D/Git/PHP/Composer/Install-for-win-and-wamp.md",
 		"/D/Git/Markdown/markdown-for-git.md",
@@ -206,8 +207,7 @@
 		"/D/wamp/www/avtechcn/2/App/Home/View/Avtech/Public/keywords.html",
 		"/D/wamp/www/avtechcn/2/App/Home/Controller/IndexController.class.php",
 		"/D/wamp/www/avtechcn/2/App/Home/Controller/FutureController.class.php",
-		"/D/wamp/www/avtechcn/2/config.yaml",
-		"/D/wamp/www/bigdata/composer.json"
+		"/D/wamp/www/avtechcn/2/config.yaml"
 	],
 	"find":
 	{
