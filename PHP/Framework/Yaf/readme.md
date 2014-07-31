@@ -2,7 +2,7 @@ Yet Another Framework
 ---
 # http://pecl.php.net/package/yaf/  扩展
 
-# http://www.laruence.com/manual/tutorial.firstpage.html
+# http://www.laruence.com/manual/index.html
 
 # 常量
 		YAF_VERSION(Yaf\VERSION) Yaf框架的三位版本信息
