@@ -3,7 +3,7 @@ Order List 命令列表
 # 重启命令
 		reboot
 # 删除命令
-		rm -rf 名录名称
+		rm -rf 目录名称
 # 切换进程
 		CTRL Z停止进程并放入后台
 		jobs 显示当前暂停的进程
