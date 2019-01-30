@@ -20,8 +20,7 @@
 
         mysql -uroot -proot
 
-        select host,user from user；
+        select host,user from user;
 
         GRANT ALL PRIVILEGES ON 数据库名称.* TO '用户名'@'连接IP'  IDENTIFIED BY '密码' WITH GRANT OPTION;
-        
         flush privileges;
